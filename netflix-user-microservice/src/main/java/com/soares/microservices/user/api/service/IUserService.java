@@ -3,6 +3,7 @@ package com.soares.microservices.user.api.service;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 import com.soares.microservices.user.api.model.dto.UserDTO;
+/** This is test */
 
 /**
  * User service
